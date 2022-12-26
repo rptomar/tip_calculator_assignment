@@ -1,0 +1,64 @@
+.background{
+    background-color: rgb(100, 187, 237);
+}
+.header{
+    text-align: center;
+}
+#center{
+    background-color: aliceblue;
+    text-align: center;
+   
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom:200px ;
+}
+.left-content{
+    margin-right: 500px;
+    justify-content: center;
+    
+}
+.container-right{
+    background-color: rgb(20, 90, 75);
+    margin-left: 400px;
+    margin-right: 150px;
+    
+}
+.button1{
+    background-color: rgb(20, 90, 75);
+}
+.button2{
+    background-color: rgb(20, 90, 75);
+}
+.button3{
+    background-color: rgb(20, 90, 75);
+}
+.button4{
+    background-color: rgb(20, 90, 75);
+}
+.button5{
+    background-color: rgb(20, 90, 75);
+}
+.button6{
+    background-color:white;
+}
+.bill{
+    color: rgba(0, 0, 0, 0.596);
+}
+.select-tip{
+    color: rgba(0, 0, 0, 0.589);
+}
+.number-peoples{
+    color: rgba(0, 0, 0, 0.527);
+}
+.minor-amount-left{
+    color: rgba(0, 0, 0, 0.616);
+}
+.person-down{
+    color: rgba(0, 0, 0, 0.555);
+}
+.reset-button{
+    background-color: rgb(84, 146, 134);
+    width: 320px;
+    height: 40px;
+    margin-bottom: 20px;
+}
